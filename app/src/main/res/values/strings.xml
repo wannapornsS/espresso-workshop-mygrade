@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">MyGrade</string>
+    <string name="defaultGrade">A</string>
+    <string name="your_grade_is">Your grade is:</string>
+    <string name="submit">SUBMIT</string>
+    <string name="_0">0</string>
+    <string name="score_input_lable">Please tell me your score.</string>
 </resources>
